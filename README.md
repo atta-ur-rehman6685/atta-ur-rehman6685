@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **atta-ur-rehman6685/atta-ur-rehman6685** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
