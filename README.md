@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 ### Web Developer | Drupal Developer | Full-Stack Developer
 
-I am a passionate and dedicated web developer with over three years of experience in **Drupal custom module development**, theming, hooks, and custom forms. As a Drupal Backend Team Lead at AsdevTech, I have been involved in developing and maintaining high-quality Drupal-based websites, ensuring smooth local development environments using tools like Docker,ddev, Lando, and Docker Compose.
+I am a passionate and dedicated web developer with over three years of experience in **Drupal custom module development**, theming, hooks, and custom forms. As a Drupal Backend Team Lead at AsdevTech, I have been involved in developing and maintaining high-quality Drupal-based websites, ensuring smooth local development environments using tools like Docker, ddev, Lando, and Docker Compose.
 
 ### 🔧 Technologies I Work With:
 - **Backend**: Drupal (7, 8, 9, 10), PHP
 - **Frontend**: HTML, CSS, JavaScript
 - **Databases**: MySQL, PostgreSQL
 - **Version Control**: Git, GitHub, BitBucket
-- **Other Tools**: Drush, Composer, Docker,ddev, Lando, Server Deployment
+- **Other Tools**: Drush, Composer, Docker, ddev, Lando, Server Deployment
 
 ### 🚀 Projects:
 - [MyInternetNear](http://myinternet.drupalreact.com/): Custom Module + Data Import + Search API (Drupal 10)
